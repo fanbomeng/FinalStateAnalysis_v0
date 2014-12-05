@@ -1,0 +1,7 @@
+#!/afs/hep.wisc.edu/user/fmeng/Fanbo/LFVetau/src/FinalStateAnalysis/recipe/external/vpython/bin/python
+# EASY-INSTALL-DEV-SCRIPT: 'rootpy==dev','root-hadd'
+__requires__ = 'rootpy==dev'
+from pkg_resources import require; require('rootpy==dev')
+del require
+__file__ = '/afs/hep.wisc.edu/user/fmeng/Fanbo/LFVetau/src/FinalStateAnalysis/recipe/external/src/rootpy/scripts/root-hadd'
+execfile(__file__)

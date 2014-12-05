@@ -1,0 +1,1 @@
+/cvmfs/cms.cern.ch/slc6_amd64_gcc472/external/python/2.6.4/lib/python2.6/abc.py
